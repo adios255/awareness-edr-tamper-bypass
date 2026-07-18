@@ -270,9 +270,9 @@ Le fait qu'une solution concurrente (WatchGuard) soit utilisée comme outil de d
 
 📚 Références
 
-    Documentation WatchGuard sur EndpointAgentTool.exe : Lien
+    Documentation WatchGuard sur EndpointAgentTool.exe 
 
-    Documentation Microsoft sur le mode de récupération : Lien
+    Documentation Microsoft sur le mode de récupération 
 
     Base de registre Windows : Services et paramètres de démarrage
 
