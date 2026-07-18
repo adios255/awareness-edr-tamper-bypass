@@ -34,6 +34,7 @@ copiable permettant d'armer l'attaque n'est publiée ici — c'est un choix dél
 | [`docs/02-chaine-attaque.md`](docs/02-chaine-attaque.md) | La chaîne décrite (conceptuelle, mappée ATT&CK) |
 | [`docs/03-remediation.md`](docs/03-remediation.md) | **Le cœur du dépôt** : durcissement |
 | [`detection/detections.md`](detection/detections.md) | Règles de détection (SIEM / EDR) |
+| [`attaque/attaque.md`](attaque/attaque.md) | Analyse d'une Procédure de Désinstallation Forcée de Sophos / Bitdefender |
 
 ## Licence
 
